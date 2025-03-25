@@ -1,3 +1,10 @@
+#### I worked mostly on the Hardware side of the project. The folder TI-Device is my work. What the device had to do is get the latest player data with the steam API over internet wirelesly. The device is controllable with an rotary encoder and return button. the device has 2 screens to scroll trough and select an user from your friends list. Also included an led to see their player status and Neopixel strip to see their achievements progession of current playing game. 
+
+
+
+
+
+
 Om toegang te krijgen tot de webpagina, doorloop de volgende stappen:
 - Open het bestand app.py
 - Start het progamma (in PyCharm kan dit door rechtsboven op de driehoek te klikken)
